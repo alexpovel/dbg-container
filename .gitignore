@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# We use poetry and only export on-demand
+requirements.txt
+
 # C extensions
 *.so
 
